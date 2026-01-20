@@ -19,7 +19,7 @@ const client = new Client({
         headless: false,
     },
     // pairWithPhoneNumber: {
-    //     phoneNumber: '96170100100' // Pair with phone number (format: <COUNTRY_CODE><PHONE_NUMBER>)
+    //     phoneNumber: '917583957584' // Pair with phone number (format: <COUNTRY_CODE><PHONE_NUMBER>)
     //     showNotification: true,
     //     intervalMs: 180000 // Time to renew pairing code in milliseconds, defaults to 3 minutes
     // }
